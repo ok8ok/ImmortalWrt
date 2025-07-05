@@ -39,6 +39,7 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 
